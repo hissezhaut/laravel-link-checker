@@ -17,6 +17,12 @@
             "email": "freek@spatie.be",
             "homepage": "https://spatie.be",
             "role": "Developer"
+        },
+	{
+            "name": "Chris LG",
+            "email": "chris@hissez-haut.com",
+            "homepage": "http://hissez-haut.com/",
+            "role": "Developer"
         }
     ],
     "require": {
