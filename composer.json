@@ -1,5 +1,5 @@
 {
-    "name": "spatie/laravel-link-checker",
+    "name": "hissezhaut/laravel-link-checker",
     "description": "Check all links in a Laravel app",
     "keywords": [
         "spatie",
@@ -20,7 +20,7 @@
         }
     ],
     "require": {
-        "php" : "^7.0",
+        "php" : "^5.5",
         "illuminate/support": "^5.3",
         "spatie/crawler": "^2.0.2"
 
